@@ -1,0 +1,55 @@
+lassical SEO (Old)
+
+Originally:
+
+Keywords
+
+Backlinks
+
+Meta tags
+
+Page rank
+
+
+Modern SEO (Current State)
+
+Today SEO is much more semantic.
+
+Google cares about:
+
+Search intent (informational vs transactional)
+
+Content structure
+
+Topical authority
+
+Answer quality
+
+
+Transformer-based neural network
+
+Key ideas:
+
+Embeddings: tokens → vectors
+
+Self-attention: every token attends to every other token
+
+Context window: I look at everything you typed
+
+Softmax: converts scores → probabilities
+
+
+
+Process:
+
+You ask a question
+
+I predict the most likely next tokens
+
+Based on:
+
+Learned definitions
+
+Common phrasing
+
+High-frequency answer structures
